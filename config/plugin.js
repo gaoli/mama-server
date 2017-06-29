@@ -1,6 +1,8 @@
 'use strict';
 
-exports.leancloud = {
-  enable: true,
-  package: 'egg-leancloud',
+module.exports = {
+  leancloud: {
+    enable: true,
+    package: 'egg-leancloud',
+  },
 };
