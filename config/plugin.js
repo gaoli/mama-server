@@ -1,4 +1,6 @@
 'use strict';
 
-// had enabled by egg
-// exports.static = true;
+exports.leancloud = {
+  enable: true,
+  package: 'egg-leancloud',
+};
