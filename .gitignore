@@ -3,7 +3,8 @@ npm-debug.log
 node_modules/
 coverage/
 .idea/
-.leancloud/
 run/
 .DS_Store
 *.swp
+.leancloud/
+.leanignore
