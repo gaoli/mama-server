@@ -4,6 +4,7 @@
   "description": "A wechat official account app",
   "private": true,
   "dependencies": {
+    "co-wechat": "^2.0.0",
     "egg": "^1.4.0",
     "egg-leancloud": "^1.0.1"
   },
