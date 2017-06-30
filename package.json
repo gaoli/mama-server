@@ -19,7 +19,7 @@
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=7.0.0"
   },
   "scripts": {
     "start": "node index.js",
@@ -32,7 +32,7 @@
     "autod": "autod"
   },
   "ci": {
-    "version": "6, 8"
+    "version": "7, 8"
   },
   "repository": {
     "type": "git",
